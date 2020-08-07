@@ -1,7 +1,7 @@
 # MarchMadnessML #
 ## Using Machine Learning to predict March Madness brackets! ##
 
-This is an machine learning script that can predict March Madness brackets using Python and Scikit. It also includes a webscraping script to get team data off the web.
+This is an machine learning script that can predict March Madness brackets using Python and Scikit.
 
 ### Technology Summary ###
 * Python
